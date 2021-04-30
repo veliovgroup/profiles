@@ -1,6 +1,6 @@
 ---
 name: Company/Project profile
-about: Use this template of you will be creating new jobs within NEAR ecosystem
+about: Use this template if you will be creating new jobs within NEAR ecosystem
 title: 'Company: ABC LTD.'
 labels: company
 assignees: ''

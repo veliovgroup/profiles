@@ -1,6 +1,6 @@
 ---
 name: Candidate profile
-about: Use this template of you're looking for a job within NEAR ecosystem
+about: Use this template if you're looking for a job within NEAR ecosystem
 title: 'CV: First Last'
 labels: candidate
 assignees: ''
