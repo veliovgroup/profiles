@@ -4,6 +4,8 @@ This repository hold profiles of [NEAR Protocol](https://near.org) ecosystem mem
 
 DO NOT USE THIS REPOSITORY ISSUES DIRECTLY, for fully-featured access to profiles and its management sign-in via [jobs.openweb.dev](https://jobs.openweb.dev/).
 
+![NEAR Protocol — Community members' profiles](https://jobs.openweb.dev/images/profiles-1280x640.png)
+
 ## CANDIDATE TEMPLATE
 
 Use this template if you're looking for a job within NEAR ecosystem. Following candidate [ISSUE_TEMPLATE](https://github.com/near/openweb-profiles/blob/main/.github/ISSUE_TEMPLATE/candidate-profile.md) when creating a new issue.
